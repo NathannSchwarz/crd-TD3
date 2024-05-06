@@ -1,3 +1,10 @@
+<script setup lang="ts">
+import Hero from '@/components/Hero.vue'
+</script>
 <template>
-  <h1>Page agenda</h1>
+  <Hero
+    title="Agenda"
+    imgPath="./img/orchestre.webp"
+    imgAlt="orchestre"
+  />
 </template>
