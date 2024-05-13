@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import Hero from '@/components/Hero.vue'
-</script>
-
 <template>
-  <Hero />
+  <h1>Page contact</h1>
 </template>
