@@ -33,16 +33,16 @@ import { RouterLink } from 'vue-router'
       <h4 class="font-bold uppercase">Nous suivre</h4>
       <ul class="flex gap-4">
         <li>
-          <a href="https://facebook.com" aria-label="facebook"><FacebookIcon /></a>
+          <a href="https://facebook.com"  aria-label="facebook"><FacebookIcon /></a>
         </li>
         <li>
-          <a href="https://instagram.com" aria-label="instagram"><InstagramIcon /></a>
+          <a href="https://instagram.com"  aria-label="instagram"><InstagramIcon /></a>
         </li>
         <li>
-          <a href="https://twitter.com" aria-label="twitter"><TwitterIcon /></a>
+          <a href="https://twitter.com"  aria-label="twitter"><TwitterIcon /></a>
         </li>
         <li>
-          <a href="https://youtube.com" aria-label="youtube"><YoutubeIcon /></a>
+          <a href="https://youtube.com"  aria-label="youtube"><YoutubeIcon /></a>
         </li>
       </ul>
     </div>
